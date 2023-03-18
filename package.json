@@ -12,9 +12,10 @@
   "dependencies": {
     "@storybook/addon-postcss": "^2.0.0",
     "@storybook/vue3": "^6.5.16",
+    "chart.js": "^4.2.1",
     "core-js": "^3.8.3",
     "vue": "^3.2.13",
-    "vue-styled-components": "^1.6.0",
+    "vue-styled-components": "^1.0.4",
     "webpack": "^4.39.3"
   },
   "devDependencies": {
